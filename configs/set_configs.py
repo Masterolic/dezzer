@@ -33,8 +33,8 @@ tg_bot_id = tg_bot_api.bot.name
 
 deez_api = Login(
 
-	email = __email,
-	password = __password
+	email = thunderforcebro@gmail.com,
+	password = A123456789,
 )
 
 acrcloud_api = ACRcloud(__acrcloud_config)
