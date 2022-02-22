@@ -32,7 +32,7 @@ tg_bot_api = Updater(token = __bot_token)
 tg_bot_id = tg_bot_api.bot.name
 
 deez_api = Login(
-	arl = __arl_token,
+
 	email = __email,
 	password = __password
 )
