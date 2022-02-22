@@ -9,8 +9,8 @@ log_downloads = f"{logs_path}downloads.log"
 log_uploads = f"{logs_path}uploads.log"
 warning_for_banning = 4
 user_session = "my_account"
-user_errors = None #Chat id user to send errors
-bunker_channel = None #Chat id channel to send all downloaded sons
+user_errors = "-1001744816254" #Chat id user to send errors
+bunker_channel = "-1001398619179" #Chat id channel to send all downloaded sons
 owl_channel = None #Chat id channel for send broadcast message
 db_name = "deez_bot.db"
 settings_file = "deez_settings.ini"
@@ -22,7 +22,7 @@ recursive_download = True
 make_zip = True
 method_save = 2
 download_dir_max_size = 6 #GB
-donation_link = "https://www.paypal.com/paypalme/An0nimia"
+donation_link = "https://t.me/masterolic"
 
 supported_link = [
 	"www.deezer.com", "open.spotify.com",
